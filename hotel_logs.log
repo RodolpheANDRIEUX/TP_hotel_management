@@ -1,0 +1,21 @@
+2023-12-07 15:04:48,977:WARNING:No data found at clients.json, starting with empty data.
+2023-12-07 15:04:48,978:INFO:Data successfully loaded from data/rooms.json
+2023-12-07 15:04:48,978:WARNING:No data found at reservations.json, starting with empty data.
+2023-12-07 15:04:48,980:INFO:Initialisation complete
+2023-12-07 15:04:48,980:WARNING:launching main
+2023-12-07 15:10:35,591: WARNING: No data found at clients.json, starting with empty data.
+2023-12-07 15:10:35,592: INFO: Data successfully loaded from data/rooms.json
+2023-12-07 15:10:35,592: WARNING: No data found at reservations.json, starting with empty data.
+2023-12-07 15:10:35,592: INFO: launching main
+2023-12-07 16:01:35,049: WARNING: No data found at clients.json, starting with empty data.
+2023-12-07 16:01:35,049: INFO: Data successfully loaded from data/rooms.json
+2023-12-07 16:01:35,049: WARNING: No data found at reservations.json, starting with empty data.
+2023-12-07 16:01:35,050: INFO: launching main
+2023-12-07 16:03:32,557: WARNING: No data found at clients.json, starting with empty data.
+2023-12-07 16:03:32,557: WARNING: No data found at reservations.json, starting with empty data.
+2023-12-07 16:03:47,178: WARNING: No data found at clients.json, starting with empty data.
+2023-12-07 16:03:47,179: WARNING: No data found at reservations.json, starting with empty data.
+2023-12-07 16:04:28,434: WARNING: No data found at clients.json, starting with empty data.
+2023-12-07 16:04:28,435: INFO: Data successfully loaded from data/rooms.json
+2023-12-07 16:04:28,435: WARNING: No data found at reservations.json, starting with empty data.
+2023-12-07 16:04:28,435: INFO: launching main

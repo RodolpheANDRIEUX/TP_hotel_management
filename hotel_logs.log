@@ -19,3 +19,66 @@
 2023-12-07 16:04:28,435: INFO: Data successfully loaded from data/rooms.json
 2023-12-07 16:04:28,435: WARNING: No data found at reservations.json, starting with empty data.
 2023-12-07 16:04:28,435: INFO: launching main
+2023-12-11 16:26:20,914: WARNING: No data found at clients.json, starting with empty data.
+2023-12-11 16:26:20,916: INFO: Data successfully loaded from data/rooms.json
+2023-12-11 16:26:20,916: WARNING: No data found at reservations.json, starting with empty data.
+2023-12-11 16:26:20,917: INFO: launching main
+2023-12-11 16:26:32,133: WARNING: No data found at clients.json, starting with empty data.
+2023-12-11 16:26:32,133: INFO: Data successfully loaded from data/rooms.json
+2023-12-11 16:26:32,134: WARNING: No data found at reservations.json, starting with empty data.
+2023-12-11 16:26:32,134: INFO: launching main
+2023-12-11 16:26:37,057: WARNING: No data found at clients.json, starting with empty data.
+2023-12-11 16:26:37,057: INFO: Data successfully loaded from data/rooms.json
+2023-12-11 16:26:37,058: WARNING: No data found at reservations.json, starting with empty data.
+2023-12-11 16:26:37,058: INFO: launching main
+2023-12-11 16:29:27,421: WARNING: No data found at clients.json, starting with empty data.
+2023-12-11 16:29:27,421: INFO: Data successfully loaded from data/rooms.json
+2023-12-11 16:29:27,421: WARNING: No data found at reservations.json, starting with empty data.
+2023-12-11 16:29:27,421: INFO: launching main
+2023-12-11 16:29:56,493: WARNING: No data found at clients.json, starting with empty data.
+2023-12-11 16:29:56,494: INFO: Data successfully loaded from data/rooms.json
+2023-12-11 16:29:56,494: WARNING: No data found at reservations.json, starting with empty data.
+2023-12-11 16:29:56,494: INFO: launching main
+2023-12-11 16:30:11,222: WARNING: No data found at clients.json, starting with empty data.
+2023-12-11 16:30:11,223: INFO: Data successfully loaded from data/rooms.json
+2023-12-11 16:30:11,223: WARNING: No data found at reservations.json, starting with empty data.
+2023-12-11 16:30:11,223: INFO: launching main
+2023-12-11 16:31:11,252: WARNING: No data found at clients.json, starting with empty data.
+2023-12-11 16:31:11,252: INFO: Data successfully loaded from data/rooms.json
+2023-12-11 16:31:11,252: WARNING: No data found at reservations.json, starting with empty data.
+2023-12-11 16:31:11,252: INFO: launching main
+2023-12-11 16:41:29,725: WARNING: No data found at clients.json, starting with empty data.
+2023-12-11 16:41:29,726: INFO: Data successfully loaded from data/rooms.json
+2023-12-11 16:41:29,726: WARNING: No data found at reservations.json, starting with empty data.
+2023-12-11 16:41:29,727: INFO: launching main
+2023-12-11 16:43:55,178: WARNING: No data found at clients.json, starting with empty data.
+2023-12-11 16:43:55,179: INFO: Data successfully loaded from data/rooms.json
+2023-12-11 16:43:55,179: WARNING: No data found at reservations.json, starting with empty data.
+2023-12-11 16:43:55,179: INFO: launching main
+2023-12-11 16:45:36,801: WARNING: No data found at clients.json, starting with empty data.
+2023-12-11 16:45:36,801: INFO: Data successfully loaded from data/rooms.json
+2023-12-11 16:45:36,802: WARNING: No data found at reservations.json, starting with empty data.
+2023-12-11 16:45:36,802: INFO: launching main
+2023-12-11 16:47:35,377: WARNING: No data found at clients.json, starting with empty data.
+2023-12-11 16:47:35,378: INFO: Data successfully loaded from data/rooms.json
+2023-12-11 16:47:35,378: WARNING: No data found at reservations.json, starting with empty data.
+2023-12-11 16:47:35,378: INFO: launching main
+2023-12-11 16:53:12,473: WARNING: No data found at clients.json, starting with empty data.
+2023-12-11 16:53:12,473: INFO: Data successfully loaded from data/rooms.json
+2023-12-11 16:53:12,473: WARNING: No data found at reservations.json, starting with empty data.
+2023-12-11 16:53:12,473: INFO: launching main
+2023-12-11 16:53:17,675: WARNING: Invalid number of arguments. Expected 4 arguments.
+2023-12-11 16:54:11,804: WARNING: No data found at clients.json, starting with empty data.
+2023-12-11 16:54:11,805: INFO: Data successfully loaded from data/rooms.json
+2023-12-11 16:54:11,805: WARNING: No data found at reservations.json, starting with empty data.
+2023-12-11 16:54:11,805: INFO: launching main
+2023-12-11 16:54:13,817: WARNING: Invalid number of arguments. Expected 4 arguments.
+2023-12-11 16:55:09,481: WARNING: No data found at clients.json, starting with empty data.
+2023-12-11 16:55:09,482: INFO: Data successfully loaded from data/rooms.json
+2023-12-11 16:55:09,482: WARNING: No data found at reservations.json, starting with empty data.
+2023-12-11 16:55:09,482: INFO: launching main
+2023-12-11 16:55:12,486: WARNING: Invalid number of arguments. Expected 4 arguments.
+2023-12-11 16:57:44,256: WARNING: No data found at clients.json, starting with empty data.
+2023-12-11 16:57:44,256: INFO: Data successfully loaded from data/rooms.json
+2023-12-11 16:57:44,256: WARNING: No data found at reservations.json, starting with empty data.
+2023-12-11 16:57:44,256: INFO: launching main
